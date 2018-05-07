@@ -8,6 +8,7 @@ use PHPUnit\Framework\TestCase;
 use Yrgo\Shark;
 use Yrgo\Tornado;
 use Yrgo\Weapons\Laser;
+
 /**
  * This is the laser weapon test class.
  *

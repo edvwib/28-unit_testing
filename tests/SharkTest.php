@@ -17,6 +17,7 @@ use PHPUnit\Framework\TestCase;
 use Yrgo\Shark;
 use Yrgo\Weapons\Laser;
 use Yrgo\Weapons\Weapon;
+
 /**
  * This is the shark test class.
  *
